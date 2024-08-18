@@ -1,7 +1,6 @@
 <h1 align="center">Hello 🌍, I'm Muhammad Umair</h1>
-<h3 align="center">Father since 2017, and passionate developer since 2014.</h3>
-<h3 align="center">"Java is to JavaScript as ham is to hamster." –
-Jeremy Keith, 2009</h3>
+<h3 align="center">A passionate developer since 2014.</h3>
+<h3 align="center">"The best thing about a boolean is even if you are wrong, you are only off by a bit."</h3>
 
 -----
 
